@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: '你的笔记的名字',
+  title: '计算机系统工程',
+  tagline: '计算机系统工程笔记',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -89,7 +89,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '计算机系统工程',
         logo: {
           alt: 'Ayaka Logo',
           src: 'img/logo-avatar.png',
@@ -99,7 +99,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '课程笔记',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -115,7 +115,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '课程笔记',
                 to: '/docs/cseintro',
               },
             ],
