@@ -1,0 +1,9 @@
+{
+    "image": "node:18",
+    "name": "cse-notes-web",
+    "postCreateCommand": "npm install",
+    // 端口映射
+    "forwardPorts": [3000],
+    // 容器启动后执行的命令
+    // "postStartCommand": "npm run dev",
+}
