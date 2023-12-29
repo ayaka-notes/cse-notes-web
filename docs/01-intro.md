@@ -5,7 +5,7 @@ sidebar_position: 1
 
 import OfficePreview from '@site/src/components/OfficePreview/index';
 
-<OfficePreview place = "/ppt/1-1-intro.ppt"/>
+<OfficePreview place = "/ppt/CSE-01-intro.pptx"/>
 
 ## 第一章 简介
 
